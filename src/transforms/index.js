@@ -1,6 +1,7 @@
 module.exports = {
   aggregate:    require('./Aggregate'),
   bin:          require('./Bin'),
+  boxVoronoi:   require('./BoxVoronoi'),
   cross:        require('./Cross'),
   countpattern: require('./CountPattern'),
   linkpath:     require('./LinkPath'),
