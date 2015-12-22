@@ -7,6 +7,3 @@ node_modules
 output
 temp
 vega-schema.json
-vega.js
-vega.js.map
-vega.min.js
